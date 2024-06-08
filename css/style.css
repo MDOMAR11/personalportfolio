@@ -5,7 +5,49 @@
     --light: #FAFAFB;
     --dark: #12141D;
 }
-
+.main-profile{
+    margin-top: 100px;
+    
+}
+.main-profile img{
+    height: 550px;
+    width: 650px;
+}
+.frelative{
+    position: relative;
+    height: 420px;
+    width: 95%;
+    
+    margin-left: 5px;
+}
+.faruk img{
+    height: 100%;
+    width: 100%;
+    bottom: 10px;
+    position: absolute;
+}
+.bgTeamend{
+    background-color: #DE85C3 ;
+}
+.akas{
+   
+    background-color: #8D877D;
+}
+.akas img{
+    height: 100%;
+    width: 100%;
+}
+.bgTeam{
+    background-color: aliceblue;
+}
+.bgTeam img{
+   height: 100%;
+   width: 100%;
+}
+.bg{
+    background-color: #C7CBCB;
+    
+}
 .back-to-top {
     position: fixed;
     display: none;
